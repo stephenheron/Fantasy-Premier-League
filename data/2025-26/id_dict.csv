@@ -1,0 +1,799 @@
+Understat_ID, FPL_ID, Understat_Name, FPL_Name
+-1,1,,David Raya Martín
+-1,2,,Kepa Arrizabalaga Revuelta
+-1,3,,Karl Hein
+-1,4,,Tommy Setford
+-1,5,,Gabriel dos Santos Magalhães
+-1,6,,William Saliba
+-1,7,,Riccardo Calafiori
+-1,8,,Jurriën Timber
+-1,9,,Jakub Kiwior
+-1,10,,Myles Lewis-Skelly
+-1,11,,Benjamin White
+-1,13,,Brayden Clarke
+-1,14,,Maldini Kacurri
+-1,15,,Josh Nichols
+-1,16,,Bukayo Saka
+-1,17,,Martin Ødegaard
+-1,18,,Noni Madueke
+-1,19,,Gabriel Martinelli Silva
+-1,20,,Leandro Trossard
+-1,21,,Declan Rice
+-1,22,,Mikel Merino Zazón
+-1,23,,Fábio Ferreira Vieira
+-1,24,,Christian Nørgaard
+-1,25,,Ethan Nwaneri
+-1,26,,Martín Zubimendi Ibáñez
+-1,28,,Ismeal Kabia
+-1,29,,Albert Sambi Lokonga
+-1,30,,Kai Havertz
+-1,31,,Gabriel Fernando de Jesus
+-1,266,,Eberechi Eze
+-1,662,,Cristhian Mosquera
+-1,666,,Viktor Gyökeres
+-1,700,,Max Dowman
+-1,711,,Andre Harriman-Annous
+-1,725,,Piero Hincapié
+-1,759,,Marli Salmon
+-1,32,,Emiliano Martínez Romero
+-1,33,,Marco Bizot
+-1,34,,Joe Gauci
+-1,35,,Filip Marschall
+-1,36,,Matty Cash
+-1,37,,Lucas Digne
+-1,38,,Ezri Konsa Ngoyo
+-1,39,,Ian Maatsen
+-1,40,,Tyrone Mings
+-1,41,,Pau Torres
+-1,42,,Andrés García
+-1,43,,Álex Moreno Lopera
+-1,44,,Lamare Bogarde
+-1,45,,Lino da Cruz Sousa
+-1,46,,Yasin Özcan
+-1,47,,Morgan Rogers
+-1,48,,Youri Tielemans
+-1,49,,Leon Bailey
+-1,50,,Emiliano Buendía Stati
+-1,51,,Samuel Iling-Junior
+-1,53,,Donyell Malen
+-1,54,,John McGinn
+-1,55,,Ross Barkley
+-1,56,,Enzo Barrenechea
+-1,57,,Lewis Dobbin
+-1,58,,Boubacar Kamara
+-1,59,,Amadou Onana
+-1,60,,Ben Broggio
+-1,61,,Leander Dendoncker
+-1,62,,Jamaldeen Jimoh-Aloba
+-1,63,,Kadan Young
+-1,64,,Ollie Watkins
+-1,65,,Zépiqueno Redmond
+-1,389,,Harvey Elliott
+-1,456,,Jadon Sancho
+-1,677,,Evann Guessand
+-1,688,,James Wright
+-1,701,,Triston Rowe
+-1,702,,Bradley Burrowes
+-1,703,,Sam Proctor
+-1,710,,Travis Patterson
+-1,719,,Victor Lindelöf
+-1,754,,George Hemmings
+-1,757,,Ronnie Hollingshead
+-1,768,,Leon Routh
+-1,781,,TJ Carroll
+-1,792,,Alysson Edward Franco da Rocha dos Santos
+-1,183,,Max Weiß
+-1,184,,Etienne Green
+-1,185,,Václav Hladký
+-1,186,,Connor Roberts
+-1,187,,Kyle Walker
+-1,188,,Hannes Delcroix
+-1,189,,Owen Dodgson
+-1,190,,Hjalmar Ekdal
+-1,191,,Maxime Estève
+-1,192,,Quilindschy Hartman
+-1,193,,Bashir Humphreys
+-1,194,,Jordan Beyer
+-1,195,,Lucas Pires Silva
+-1,196,,Shurandy Sambo
+-1,197,,Oliver Sonne
+-1,198,,Axel Tuanzebe
+-1,199,,Joe Worrall
+-1,200,,Jaidon Anthony
+-1,201,,Manuel Benson Hedilazio
+-1,202,,Jacob Bruun Larsen
+-1,203,,Enock Agyei
+-1,204,,Darko Churlinov
+-1,205,,Josh Cullen
+-1,206,,Marcus Edwards
+-1,207,,Hannibal Mejbri
+-1,208,,Luca Koleosho
+-1,209,,Josh Laurent
+-1,210,,Loum Tchaouna
+-1,211,,Aaron Ramsey
+-1,212,,Oluwaseun Adewumi
+-1,213,,Jaydon Banel
+-1,214,,Mike Trésor Ndayishimiye
+-1,215,,Zian Flemming
+-1,216,,Zeki Amdouni
+-1,217,,Lyle Foster
+-1,218,,Ashley Barnes
+-1,219,,Michael Obafemi
+-1,470,,Martin Dúbravka
+-1,676,,Lesley Ugochukwu
+-1,680,,Armando Broja
+-1,722,,Florentino Ibrain Morris Luís
+-1,776,,Oliver Pimlott
+-1,784,,George Brierley
+-1,66,,Norberto Murara Neto
+-1,67,,Đorđe Petrović
+-1,68,,Will Dennis
+-1,69,,Callan McKenna
+-1,70,,Alex Paulsen
+-1,71,,Illia Zabarnyi
+-1,72,,Marcos Senesi Barón
+-1,73,,Adam Smith
+-1,74,,Adrien Truffert
+-1,75,,Matai Akinmboni
+-1,76,,Owen Bevan
+-1,77,,James Hill
+-1,78,,Julián Araujo Zúñiga
+-1,79,,Chris Mepham
+-1,80,,Julio Soler Barreto
+-1,81,,Justin Kluivert
+-1,84,,Marcus Tavernier
+-1,85,,Tyler Adams
+-1,86,,David Brooks
+-1,87,,Ryan Christie
+-1,88,,Lewis Cook
+-1,89,,Philip Billing
+-1,90,,Alex Scott
+-1,91,,Luis Sinisterra Lucumí
+-1,92,,Romain Faivre
+-1,93,,Hamed Traorè
+-1,94,,Dominic Sadi
+-1,95,,Zain Silcott-Duberry
+-1,96,,Ben Winterburn
+-1,97,,Francisco Evanilson de Lima Barbosa
+-1,98,,Enes Ünal
+-1,99,,Daniel Adu-Adjei
+-1,100,,Junior Kroupi
+-1,391,,Ben Gannon-Doak
+-1,685,,Bafodé Diakité
+-1,687,,Remy Rees-Dottin
+-1,697,,Amine Adli
+-1,713,,Álex Jiménez Sánchez
+-1,721,,Veljko Milosavljevic
+-1,756,,Malcom DaCosta
+-1,782,,Fraser Forster
+-1,27,,Reiss Nelson
+-1,83,,Dango Ouattara
+-1,101,,Caoimhín Kelleher
+-1,102,,Ellery Balcombe
+-1,103,,Matthew Cox
+-1,104,,Julian Eyestone
+-1,105,,Hákon Rafn Valdimarsson
+-1,106,,Nathan Collins
+-1,107,,Keane Lewis-Potter
+-1,108,,Kristoffer Ajer
+-1,109,,Rico Henry
+-1,110,,Michael Kayode
+-1,111,,Ethan Pinnock
+-1,112,,Mads Roerslev Rasmussen
+-1,113,,Sepp van den Berg
+-1,114,,Benjamin Arthur
+-1,115,,Benjamin Fredrick
+-1,116,,Aaron Hickey
+-1,117,,Kim Ji-soo
+-1,118,,Jayden Meghoma
+-1,120,,Kevin Schade
+-1,121,,Mikkel Damsgaard
+-1,122,,Antoni Milambo
+-1,123,,Fábio Freitas Gouveia Carvalho
+-1,124,,Jordan Henderson
+-1,125,,Vitaly Janelt
+-1,126,,Mathias Jensen
+-1,127,,Gustavo Nunes Fernandes Gomes
+-1,128,,Frank Onyeka
+-1,129,,Yehor Yarmoliuk
+-1,130,,Romelle Donovan
+-1,131,,Yunus Emre Konak
+-1,132,,Paris Maghoma
+-1,133,,Myles Peart-Harris
+-1,134,,Ryan Trevitt
+-1,136,,Igor Thiago Nascimento Rodrigues
+-1,137,,Iwan Morgan
+-1,748,,Josh Dasilva
+-1,797,,Kaye Furo
+-1,138,,Jason Steele
+-1,139,,Bart Verbruggen
+-1,140,,Tom McGill
+-1,141,,Carl Rushworth
+-1,142,,Kjell Scherpen
+-1,143,,Olivier Boscagli
+-1,144,,Diego Coppola
+-1,145,,Maxim De Cuyper
+-1,146,,Lewis Dunk
+-1,147,,Pervis Estupiñán Tenorio
+-1,148,,Ferdi Kadıoğlu
+-1,150,,Tariq Lamptey
+-1,151,,Jan Paul van Hecke
+-1,152,,Joël Veltman
+-1,153,,Adam Webster
+-1,154,,Eiran Cashin
+-1,155,,Jacob Slater
+-1,156,,Charlie Tasker
+-1,157,,Mitoma Kaoru
+-1,158,,Georginio Rutter
+-1,159,,Solly March
+-1,160,,Yankuba Minteh
+-1,161,,Julio Enciso Espínola
+-1,162,,Brajan Gruda
+-1,163,,Jack Hinshelwood
+-1,164,,Matt O'Riley
+-1,165,,Abdallah Sima
+-1,166,,Yasin Ayari
+-1,167,,Carlos Baleba
+-1,169,,Diego Gómez Amarilla
+-1,170,,James Milner
+-1,171,,Jeremy Sarmiento Morante
+-1,172,,Tom Watson
+-1,173,,Mats Wieffer
+-1,174,,Malick Yalcouyé
+-1,175,,Joe Knight
+-1,176,,Adrian Mazilu
+-1,177,,Andrew Moran
+-1,178,,Danny Welbeck
+-1,179,,Evan Ferguson
+-1,180,,Stefanos Tzimas
+-1,181,,Charalampos Kostoulas
+-1,744,,Nehemiah Oriola
+-1,761,,Freddie Simmonds
+-1,783,,Pascal Groß
+-1,795,,Harry Howell
+-1,220,,Robert Lynch Sánchez
+-1,221,,Filip Jörgensen
+-1,222,,Mike Penders
+-1,223,,Gabriel Słonina
+-1,224,,Marc Cucurella Saseta
+-1,225,,Reece James
+-1,226,,Trevoh Chalobah
+-1,227,,Levi Samuels Colwill
+-1,228,,Malo Gusto
+-1,229,,Benoît Badiashile Mukinayi
+-1,230,,Wesley Fofana
+-1,231,,Mamadou Sarr
+-1,232,,Tosin Adarabioyo
+-1,233,,Josh Acheampong
+-1,234,,Aarón Anselmino
+-1,235,,Cole Palmer
+-1,236,,Pedro Lomba Neto
+-1,237,,Enzo Fernández
+-1,238,,Estêvão Almeida de Oliveira Gonçalves
+-1,239,,Jamie Bynoe-Gittens
+-1,240,,Christopher Nkunku
+-1,241,,Moisés Caicedo Corozo
+-1,243,,Tyrique George
+-1,244,,Roméo Lavia
+-1,245,,Mykhailo Mudryk
+-1,246,,Andrey Nascimento dos Santos
+-1,247,,Dário Luís Essugo
+-1,248,,Kendry Páez Andrade
+-1,249,,João Pedro Junqueira de Jesus
+-1,250,,Liam Delap
+-1,251,,Nicolas Jackson
+-1,252,,Marc Guiu Paz
+-1,453,,Alejandro Garnacho Ferreyra
+-1,672,,Jorrel Hato
+-1,743,,Landon Emenalo
+-1,789,,Max Merrick
+-1,253,,Dean Henderson
+-1,254,,Walter Benítez
+-1,255,,Remi Matthews
+-1,256,,Daniel Muñoz Mejía
+-1,257,,Maxence Lacroix
+-1,258,,Tyrick Mitchell
+-1,259,,Borna Sosa
+-1,261,,Chris Richards
+-1,262,,Chadi Riad Dnanou
+-1,263,,Nathaniel Clyne
+-1,264,,Rob Holding
+-1,265,,Caleb Kporha
+-1,267,,Ismaïla Sarr
+-1,268,,Cheick Doucouré
+-1,269,,Romain Esse
+-1,270,,Will Hughes
+-1,271,,Daichi Kamada
+-1,272,,Jefferson Lerma Solís
+-1,273,,Adam Wharton
+-1,274,,Asher Agbinone
+-1,275,,Naouirou Ahamada
+-1,276,,Justin Devenny
+-1,277,,Malcolm Ebiowei
+-1,278,,Jesurun Rak-Sakyi
+-1,279,,Matheus França de Oliveira
+-1,280,,David Ozoh
+-1,281,,Kaden Rodney
+-1,282,,Franco Umeh-Chibueze
+-1,283,,Jean-Philippe Mateta
+-1,284,,Eddie Nketiah
+-1,285,,Odsonne Édouard
+-1,286,,Zach Marsh
+-1,580,,Brennan Johnson
+-1,690,,Rio Cardines
+-1,712,,Yéremy Pino Santos
+-1,723,,Jaydee Canvot
+-1,732,,Christantus Uche
+-1,762,,Joél Drakes-Thomas
+-1,773,,Dean Benamar
+-1,780,,Ben Casey
+-1,793,,George King
+-1,798,,Danny Imray
+-1,242,,Kiernan Dewsbury-Hall
+-1,287,,Jordan Pickford
+-1,288,,Mark Travers
+-1,289,,Harry Tyrer
+-1,290,,Jarrad Branthwaite
+-1,291,,James Tarkowski
+-1,292,,Vitalii Mykolenko
+-1,293,,Jake O'Brien
+-1,294,,Séamus Coleman
+-1,295,,Michael Keane
+-1,296,,Nathan Patterson
+-1,297,,Roman Dixon
+-1,298,,Reece Welch
+-1,299,,Iliman Ndiaye
+-1,300,,Dwight McNeil
+-1,301,,Carlos Alcaraz Durán
+-1,302,,Idrissa Gana Gueye
+-1,303,,James Garner
+-1,304,,Tim Iroegbunam
+-1,305,,Harrison Armstrong
+-1,306,,Callum Bates
+-1,307,,Coby Ebere
+-1,308,,Isaac Heath
+-1,309,,Jenson Metcalfe
+-1,310,,Thierno Barry
+-1,311,,Norberto Bercique Gomes Betuncal
+-1,312,,Youssef Ramalho Chermiti
+-1,313,,Martin Sherif
+-1,419,,Jack Grealish
+-1,630,,Tom King
+-1,667,,Adam Aznou
+-1,704,,Tyler Onyango
+-1,705,,Elijah Campbell
+-1,707,,Tyler Dibling
+-1,728,,Merlin Röhl
+-1,779,,Braiden Graham
+-1,314,,Bernd Leno
+-1,315,,Steven Benda
+-1,316,,Antonee Robinson
+-1,317,,Joachim Andersen
+-1,318,,Calvin Bassey
+-1,319,,Timothy Castagne
+-1,320,,Issa Diop
+-1,321,,Jorge Cuenca Barreno
+-1,322,,Kenny Tete
+-1,323,,Samuel Amissah
+-1,324,,Alex Iwobi
+-1,325,,Emile Smith Rowe
+-1,326,,Adama Traoré Diarra
+-1,327,,Andreas Hoelgebaum Pereira
+-1,328,,Ryan Sessegnon
+-1,329,,Harry Wilson
+-1,330,,Sander Berge
+-1,331,,Tom Cairney
+-1,332,,Saša Lukić
+-1,333,,Martial Godo
+-1,334,,Luke Harris
+-1,335,,Josh King
+-1,336,,Harrison Reed
+-1,337,,Raúl Jiménez Rodríguez
+-1,338,,Rodrigo Muniz Carvalho
+-1,664,,Benjamin Lecomte
+-1,727,,Samuel Chukwueze
+-1,731,,Kevin Santos Lopes de Macedo
+-1,737,,Jonah Kusi-Asare
+-1,770,,Seth Ridgeon
+-1,786,,Alfie McNally
+-1,168,,Facundo Buonanotte
+-1,339,,Illan Meslier
+-1,340,,Alex Cairns
+-1,341,,Karl Darlow
+-1,342,,Jayden Bogle
+-1,343,,Pascal Struijk
+-1,344,,Jaka Bijol
+-1,345,,Sebastiaan Bornauw
+-1,346,,Sam Byram
+-1,347,,Gabriel Gudmundsson
+-1,348,,Joe Rodon
+-1,349,,Isaac Schmidt
+-1,350,,Brenden Aaronson
+-1,351,,Wilfried Gnonto
+-1,352,,Jack Harrison
+-1,353,,Daniel James
+-1,354,,Ethan Ampadu
+-1,355,,Sam Greenwood
+-1,356,,Ilia Gruev
+-1,357,,Largie Ramazani
+-1,358,,Tanaka Ao
+-1,359,,Charlie Crew
+-1,360,,Joe Gelhardt
+-1,361,,Darko Gyabi
+-1,362,,Joël Piroe
+-1,363,,Patrick Bamford
+-1,364,,Mateo Joseph Fernández-Regatillo
+-1,365,,Lukas Nmecha
+-1,493,,Sean Longstaff
+-1,660,,Anton Stach
+-1,665,,Lucas Estella Perri
+-1,691,,Dominic Calvert-Lewin
+-1,698,,Noah Okafor
+-1,706,,James Justin
+-1,741,,Harry Gray
+-1,787,,Sam Chambers
+-1,366,,Alisson Becker
+-1,367,,Giorgi Mamardashvili
+-1,368,,Ármin Pécsi
+-1,369,,Freddie Woodman
+-1,370,,Jeremie Frimpong
+-1,371,,Milos Kerkez
+-1,372,,Andrew Robertson
+-1,373,,Virgil van Dijk
+-1,374,,Ibrahima Konaté
+-1,375,,Conor Bradley
+-1,376,,Joe Gomez
+-1,377,,Konstantinos Tsimikas
+-1,378,,Amara Nallo
+-1,379,,Rhys Williams
+-1,380,,Calvin Ramsay
+-1,381,,Mohamed Salah
+-1,382,,Florian Wirtz
+-1,383,,Luis Díaz Marulanda
+-1,384,,Cody Gakpo
+-1,385,,Federico Chiesa
+-1,386,,Alexis Mac Allister
+-1,387,,Dominik Szoboszlai
+-1,388,,Curtis Jones
+-1,390,,Ryan Gravenberch
+-1,392,,Endo Wataru
+-1,393,,Stefan Bajčetić Maquieira
+-1,394,,James McConnell
+-1,395,,Tyler Morton
+-1,396,,Trey Nyoni
+-1,397,,Darwin Núñez Ribeiro
+-1,398,,Jayden Danns
+-1,499,,Alexander Isak
+-1,661,,Hugo Ekitiké
+-1,686,,Rio Ngumoha
+-1,692,,Giovanni Leoni
+-1,746,,Kieran Morrison
+-1,760,,Wellity Lucky
+-1,82,,Antoine Semenyo
+-1,182,,James Trafford
+-1,260,,Marc Guéhi
+-1,399,,Ederson Santana de Moraes
+-1,400,,Stefan Ortega Moreno
+-1,401,,Marcus Bettinelli
+-1,402,,Rayan Aït-Nouri
+-1,403,,Joško Gvardiol
+-1,404,,Manuel Akanji
+-1,405,,Nathan Aké
+-1,406,,Abdukodir Khusanov
+-1,407,,Matheus Nunes
+-1,408,,Rúben dos Santos Gato Alves Dias
+-1,409,,John Stones
+-1,410,,Rico Lewis
+-1,411,,Nico O'Reilly
+-1,412,,Vitor de Oliveira Nunes dos Reis
+-1,413,,Omar Marmoush
+-1,414,,Phil Foden
+-1,415,,Sávio Moreira de Oliveira
+-1,416,,Bernardo Mota Veiga de Carvalho e Silva
+-1,417,,Rayan Cherki
+-1,418,,Jérémy Doku
+-1,420,,İlkay Gündoğan
+-1,421,,Rodrigo 'Rodri' Hernandez Cascante
+-1,422,,Mateo Kovačić
+-1,423,,Nico González Iglesias
+-1,424,,Oscar Bobb
+-1,425,,Claudio Echeverri
+-1,427,,Tijjani Reijnders
+-1,428,,Sverre Nypan
+-1,429,,Kalvin Phillips
+-1,430,,Erling Haaland
+-1,736,,Gianluigi Donnarumma
+-1,739,,Divine Mukasa
+-1,740,,Stephen Mfuni
+-1,742,,Ryan McAidoo
+-1,763,,Charlie Gray
+-1,764,,Reigan Heskey
+-1,794,,Max Alleyne
+-1,119,,Bryan Mbeumo
+-1,431,,Altay Bayındır
+-1,432,,André Onana
+-1,433,,Elyh Harrison
+-1,434,,Tom Heaton
+-1,435,,Dermot Mee
+-1,436,,Matthijs de Ligt
+-1,437,,Lisandro Martínez
+-1,438,,Noussair Mazraoui
+-1,439,,Diego León Blanco
+-1,440,,Diogo Dalot Teixeira
+-1,441,,Patrick Dorgu
+-1,442,,Harry Maguire
+-1,443,,Luke Shaw
+-1,444,,Leny Yoro
+-1,445,,Harry Amass
+-1,446,,Tyler Fredricson
+-1,447,,Ayden Heaven
+-1,448,,Tyrell Malacia
+-1,449,,Bruno Borges Fernandes
+-1,450,,Matheus Santos Carneiro da Cunha
+-1,451,,Marcus Rashford
+-1,452,,Amad Diallo
+-1,454,,Antony dos Santos
+-1,455,,Mason Mount
+-1,457,,Carlos Henrique Casimiro
+-1,458,,Kobbie Mainoo
+-1,459,,Manuel Ugarte Ribeiro
+-1,460,,Toby Collyer
+-1,461,,Jayce Fitzgerald
+-1,462,,Jack Fletcher
+-1,463,,Sékou Koné
+-1,464,,Jack Moorhouse
+-1,465,,Rasmus Højlund
+-1,466,,Joshua Zirkzee
+-1,467,,Chido Obi
+-1,468,,Ethan Wheatley
+-1,681,,Benjamin Sesko
+-1,733,,Senne Lammens
+-1,755,,Shea Lacey
+-1,769,,Bendito Mantato
+-1,771,,Tyler Fletcher
+-1,788,,Godwill Kukonki
+-1,52,,Jacob Ramsey
+-1,135,,Yoane Wissa
+-1,469,,Nick Pope
+-1,471,,Mark Gillespie
+-1,472,,Odysseas Vlachodimos
+-1,473,,Lewis Hall
+-1,474,,Fabian Schär
+-1,475,,Sven Botman
+-1,476,,Dan Burn
+-1,477,,Tino Livramento
+-1,478,,Kieran Trippier
+-1,479,,Emil Krafth
+-1,480,,Jamaal Lascelles
+-1,481,,Alex Murphy
+-1,482,,Harrison Ashby
+-1,483,,Miodrag Pivaš
+-1,484,,Matt Targett
+-1,485,,Anthony Gordon
+-1,486,,Anthony Elanga
+-1,487,,Harvey Barnes
+-1,488,,Bruno Guimarães Rodriguez Moura
+-1,489,,Jacob Murphy
+-1,490,,Joelinton Cássio Apolinário de Lira
+-1,491,,Sandro Tonali
+-1,492,,Antoñito Cordero Campillo
+-1,494,,Joe Willock
+-1,495,,Isaac Hayden
+-1,496,,Garang Kuol
+-1,497,,Lewis Miley
+-1,498,,Joe White
+-1,500,,William Osula
+-1,501,,Sean Neave
+-1,674,,Aaron Ramsdale
+-1,684,,Malick Thiaw
+-1,689,,Seung-Soo Park
+-1,714,,Nick Woltemade
+-1,753,,John Ruddy
+-1,765,,Leo Shahar
+-1,772,,Sam Alabi
+-1,12,,Oleksandr Zinchenko
+-1,426,,James McAtee
+-1,502,,Matz Sels
+-1,503,,Carlos Miguel dos Santos Pereira
+-1,504,,Matt Turner
+-1,505,,Nikola Milenković
+-1,506,,Murillo Costa dos Santos
+-1,507,,Ola Aina
+-1,508,,Neco Williams
+-1,509,,David Mota Veiga Teixeira do Carmo
+-1,510,,Jair Paula da Cunha Filho
+-1,511,,Felipe Rodrigues da Silva
+-1,512,,Omar Richards
+-1,513,,Zach Abbott
+-1,514,,Willy Boly
+-1,515,,Morgan Gibbs-White
+-1,516,,Callum Hudson-Odoi
+-1,517,,Elliot Anderson
+-1,518,,João Pedro Ferreira da Silva
+-1,519,,Nicolás Domínguez
+-1,520,,Lewis O'Brien
+-1,521,,Ibrahim Sangaré
+-1,522,,Ryan Yates
+-1,523,,Eric da Silva Moreira
+-1,524,,Marko Stamenić
+-1,525,,Chris Wood
+-1,526,,Igor Jesus Maciel da Cruz
+-1,527,,Taiwo Awoniyi
+-1,669,,Dan Ndoye
+-1,675,,Angus Gunn
+-1,693,,Omari Hutchinson
+-1,696,,Arnaud Kalimuendo
+-1,699,,Douglas Luiz Soares de Paulo
+-1,715,,John Victor Maciel Furtado
+-1,716,,Nicolò Savona
+-1,729,,Luis Eduardo Soares da Silva
+-1,734,,Dilane Bakwa
+-1,528,,Anthony Patterson
+-1,529,,Simon Moore
+-1,530,,Blondy Nna Noukeu
+-1,531,,Daniel Ballard
+-1,532,,Trai Hume
+-1,533,,Aji Alese
+-1,534,,Joe Anderson
+-1,535,,Dennis Cirkin
+-1,536,,Leo Fuhr Hjelde
+-1,537,,Niall Huggins
+-1,538,,Zak Johnson
+-1,539,,Luke O'Nien
+-1,540,,Timothée Pembélé
+-1,541,,Reinildo Mandava
+-1,542,,Jenson Seelt
+-1,543,,Simon Adingra
+-1,544,,Habib Diarra
+-1,545,,Patrick Roberts
+-1,546,,Milan Aleksić
+-1,547,,Enzo Le Fée
+-1,548,,Romaine Mundle
+-1,549,,Dan Neil
+-1,550,,Ian Poveda-Ocampo
+-1,551,,Chris Rigg
+-1,552,,Noah Sadiki
+-1,553,,Chemsdine Talbi
+-1,554,,Abdoullah Ba
+-1,555,,Alan Browne
+-1,556,,Pierre Ekwah Elimby
+-1,557,,Harrison Jones
+-1,558,,Jay Matete
+-1,559,,Nectarios Triantis
+-1,560,,Wilson Isidor
+-1,561,,Eliezer Mayenda Dossou
+-1,562,,Ahmed Abdullahi
+-1,563,,Luís Hemir Silva Semedo
+-1,564,,Nazarii Rusyn
+-1,668,,Granit Xhaka
+-1,670,,Robin Roefs
+-1,678,,Arthur Masuaku
+-1,683,,Omar Alderete
+-1,694,,Nordi Mukiele
+-1,724,,Lutsharel Geertruida
+-1,730,,Brian Brobbey
+-1,735,,Bertrand Traoré
+-1,774,,Jenson Jones
+-1,775,,Tymur Tutierov
+-1,565,,Guglielmo Vicario
+-1,566,,Brandon Austin
+-1,567,,Antonín Kinský
+-1,568,,Pedro Porro Sauceda
+-1,569,,Cristian Romero
+-1,570,,Kevin Danso
+-1,571,,Ben Davies
+-1,572,,Radu Drăgușin
+-1,573,,Djed Spence
+-1,574,,Destiny Udogie
+-1,575,,Micky van de Ven
+-1,576,,Ashley Phillips
+-1,577,,Takai Kōta
+-1,578,,Luka Vušković
+-1,579,,Son Heung-min
+-1,581,,James Maddison
+-1,582,,Mohammed Kudus
+-1,583,,Dejan Kulusevski
+-1,584,,Mathys Tel
+-1,585,,Rodrigo Bentancur
+-1,586,,Lucas Bergvall
+-1,587,,Yves Bissouma
+-1,588,,Wilson Odobert
+-1,589,,Manor Solomon
+-1,590,,Bryan Gil Salvatierra
+-1,591,,Archie Gray
+-1,592,,Mikey Moore
+-1,593,,Pape Matar Sarr
+-1,594,,Yang Min-hyeok
+-1,595,,Callum Olusesi
+-1,596,,Dominic Solanke-Mitchell
+-1,597,,Richarlison de Andrade
+-1,598,,Will Lankshear
+-1,599,,Dane Scarlett
+-1,673,,João Maria Lobo Alves Palhares Costa Palhinha Gonçalves
+-1,717,,Xavi Simons
+-1,726,,Randal Kolo Muani
+-1,745,,Jun'ai Byfield
+-1,750,,James Rowswell
+-1,751,,Yusuf Akhamrich
+-1,790,,Lucá Williams-Barnett
+-1,796,,Conor Gallagher
+-1,149,,Igor Julio dos Santos de Paulo
+-1,600,,Alphonse Areola
+-1,601,,Wes Foderingham
+-1,602,,Krisztián Hegyi
+-1,603,,El Hadji Malick Diouf
+-1,604,,Emerson Palmieri dos Santos
+-1,605,,Maximilian Kilman
+-1,606,,Konstantinos Mavropanos
+-1,607,,Nayef Aguerd
+-1,608,,Ollie Scarles
+-1,609,,Jean-Clair Todibo
+-1,610,,Aaron Wan-Bissaka
+-1,611,,Kaelan Casey
+-1,612,,Lucas Tolentino Coelho de Lima
+-1,613,,Tomáš Souček
+-1,614,,James Ward-Prowse
+-1,615,,Crysencio Summerville
+-1,616,,Edson Álvarez Velázquez
+-1,617,,Maxwel Cornet
+-1,618,,Guido Rodríguez
+-1,619,,Luis Guilherme Lira dos Santos
+-1,620,,George Earthy
+-1,621,,Andy Irving
+-1,622,,Lewis Orford
+-1,623,,Freddie Potts
+-1,624,,Jarrod Bowen
+-1,625,,Niclas Füllkrug
+-1,626,,Callum Marshall
+-1,659,,Kyle Walker-Peters
+-1,671,,Callum Wilson
+-1,679,,Mads Hermansen
+-1,708,,Mateus Gonçalo Espanha Fernandes
+-1,718,,Soungoutou Magassa
+-1,738,,Lukasz Fabianski
+-1,747,,Ezra Mayers
+-1,752,,Airidas Golambeckis
+-1,758,,Mohamadou Kanté
+-1,785,,Pablo Felipe Pereira de Jesus
+-1,791,,Valentín Castellanos
+-1,627,,Sam Johnstone
+-1,628,,José Malheiro de Sá
+-1,629,,Daniel Bentley
+-1,631,,Emmanuel Agbadou
+-1,632,,Matt Doherty
+-1,633,,Hugo Bueno López
+-1,634,,Yerson Mosquera Valdelamar
+-1,635,,Rodrigo Martins Gomes
+-1,636,,Santiago Ignacio Bueno
+-1,637,,Toti Gomes
+-1,638,,Ki-Jana Hoever
+-1,639,,Bastien Meupiyou Menadjou
+-1,640,,Pedro Cardoso de Lima
+-1,641,,Alfie Pond
+-1,642,,Hwang Hee-chan
+-1,643,,André Trindade da Costa Neto
+-1,644,,Jean-Ricner Bellegarde
+-1,645,,Fer López González
+-1,646,,João Victor Gomes da Silva
+-1,647,,Gonçalo Manuel Ganchinho Guedes
+-1,648,,Marshall Munetsi
+-1,649,,Boubacar Traoré
+-1,650,,Tawanda Chirewa
+-1,651,,Tom Edozie
+-1,652,,Enso González Medina
+-1,653,,Joe Hodge
+-1,654,,Jørgen Strand Larsen
+-1,655,,Fábio Soares Silva
+-1,656,,Saša Kalajdžić
+-1,657,,Leon Chiwome
+-1,658,,Nathan Fraser
+-1,663,,Jhon Arias
+-1,682,,David Møller Wolfe
+-1,695,,Jackson Tchatchoua
+-1,709,,Ladislav Krejcí
+-1,720,,Tolu Arokodare
+-1,749,,Mateus Mané
+-1,766,,Saheed Olagunju
+-1,767,,Luke Rawlings
+-1,777,,Temple Ojinnaka
+-1,778,,Ethan Sutherland

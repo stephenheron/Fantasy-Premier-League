@@ -1,0 +1,8 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.11350106447935104,5,Sub,Augsburg,Bayer Leverkusen,2,0,2025-12-06,30334,2025,755843,0,0,0,0,0.11350106447935104,0.11350106447935104,0
+0,0,0,14,Sub,Bayer Leverkusen,Borussia Dortmund,1,2,2025-11-29,30323,2025,753887,0,0,0,0,0,0,0
+0,0,0,58,MR,Bayern Munich,Bayer Leverkusen,3,0,2025-11-01,30297,2025,748664,0,0,0,0,0,0.11651723086833954,0.11651723086833954
+0,0,0,11,Sub,Bayer Leverkusen,Borussia M.Gladbach,1,1,2025-09-21,30258,2025,739571,0,0,0,0,0,0,0
+0,0,0,22,Sub,Werder Bremen,Bayer Leverkusen,3,3,2025-08-30,30236,2025,735005,0.04052872955799103,0,1,0,0,0.04052872955799103,0.04052872955799103
+0,0,0,2,Sub,Bayer Leverkusen,Hoffenheim,1,2,2025-08-23,30226,2025,733056,0,0,0,0,0,0,0
+0,0,0,4,Sub,Fulham,Manchester City,0,2,2025-05-25,26981,2024,730217,0,0,0,0,0,0,0
